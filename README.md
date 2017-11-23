@@ -6,7 +6,7 @@ Projek ini di ikut sertakan dalam lomba BAF 2017.
 
 * Configurasi ada di class/core.class.php
 * Dump SQL .sql
-* SMS Center dengan API dari Zenziva
+* SMS Center dengan API dari mainAPI.net
 * 3 Role Account (Administrator,Guru, dan Siswa)
 * Role Admin : Register (Kelas,Siswa dan Guru), Register Administrator, Catatan Sistem, Restore dan Backup DB, Verifikasi (P. Broadcast Soal, P. Reset Jawaban)
 * Role Guru  : Tambah/Hapus/Edit (Pengumuman,Bank Soal dan Register Ujian), Request (P.Reset Jawaban, P.Broadcast Soal)
